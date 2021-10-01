@@ -1,2 +1,2 @@
-odev-2-FurkanCakici
-Adam Asmaca Oyunu
+# odev-2-FurkanCakici
+## Adam Asmaca Oyunu
